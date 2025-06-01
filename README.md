@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/f-ancgan-an-attention-enhanced-cycle/image-generation-on-tio-2-nanoparticle)](https://paperswithcode.com/sota/image-generation-on-tio-2-nanoparticle?p=f-ancgan-an-attention-enhanced-cycle)
 # F-ANcGAN: An Attention-Enhanced Cycle Consistent Generative Adversarial Architecture for Synthetic Image Generation of Nanoparticles
 Nanomaterial research is critical for advancements in energy, medicine, and materials science, but progress is often hampered by the scarcity of high-quality annotated datasets for nanoparticle topology analysis. To address this challenge, we present F-ANcGAN, a novel attention-enhanced cycle-consistent generative adversarial network (GAN) that generates realistic scanning electron microscopy (SEM) images directly from segmentation maps—even with limited training data. 
 Read the full paper - http://export.arxiv.org/abs/2505.18106
