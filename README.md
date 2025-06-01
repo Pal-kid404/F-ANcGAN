@@ -3,9 +3,6 @@
 
 # Dataset
 
-# Requirements
-- Install the requirements using the following code:
-  <pre>pip install -r requirements.txt</pre>
 # Utilization
 ## Training F-ANcGAN
 The model can be trained using either a user-supplied dataset or the TiO_2 dataset whose link is provided in this repository. Prior to training, users are advised to configure key hyperparameters and the early stopping patience parameters. Throughout the training process, the script records detailed logs and periodically saves model checkpoints for the  generator network (Gen.pth), segmentation network (Seg.pth), and discriminators (D1.pth and D2.pth) within the designated output_dir.
