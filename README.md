@@ -1,4 +1,4 @@
-# F-ANcGAN
+# F-ANcGAN: An Attention-Enhanced Cycle Consistent Generative Adversarial Architecture for Synthetic Image Generation of Nanoparticles
 Nanomaterial research is critical for advancements in energy, medicine, and materials science, but progress is often hampered by the scarcity of high-quality annotated datasets for nanoparticle topology analysis. To address this challenge, we present F-ANcGAN, a novel attention-enhanced cycle-consistent generative adversarial network (GAN) that generates realistic scanning electron microscopy (SEM) images directly from segmentation maps—even with limited training data. 
 Read the full paper - http://export.arxiv.org/abs/2505.18106
 ![Main_model](https://github.com/user-attachments/assets/dc89aca5-ea3c-4749-99ad-57cc3023a933)
